@@ -4,6 +4,8 @@
  <a href="https://www.linkedin.com/in/eriklps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 </div>
 
+##
+
 ### Technologies I'm currently using!
 <div>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
