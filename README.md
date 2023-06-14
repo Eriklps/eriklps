@@ -1,5 +1,5 @@
 ### Hi there! I'm Erik! 👋
-I'm currently working as IT Infrastructure Analyst. 🖥️🖧 <br>
+I'm currently working as IT Infrastructure Analyst. 🖥️
 
 I'm started studying development in May 2023. 📚
 
