@@ -1,5 +1,6 @@
+### Hi there! I'm Erik! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Erik!+👋;)](https://git.io/typing-svg)
+##
 
 ### About me:
 
