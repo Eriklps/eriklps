@@ -1,21 +1,11 @@
 ### Hi there! I'm Erik! 👋
 
-##
-
-### About me:
-
 <div>
  🖥️ I'm currently working as IT Infrastructure Analyst 
  <br />
  📚 Systems Analysis and Development student 
  <br />
  🚀 I'm started studying development in May 2023
-</div>
-
-### Connect with me:
-<div>
- <a href="https://www.linkedin.com/in/eriklps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/eriklps/" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ##
@@ -39,5 +29,11 @@
 
 ##
 
-### 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriklps&theme=default) 
+<!-- ### 📈 Github Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriklps&theme=default) -->
+
+### Connect with me:
+<div>
+ <a href="https://www.linkedin.com/in/eriklps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/eriklps/" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
