@@ -1,13 +1,21 @@
-### Hi there! I'm Erik! 👋
-🖥️ I'm currently working as IT Infrastructure Analyst 
-<br />
-📚 Systems Analysis and Development student 
-<br />
-🚀 I'm started studying development in May 2023
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Erik!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
+### About me:
+
+<div>
+ 🖥️ I'm currently working as IT Infrastructure Analyst 
+ <br />
+ 📚 Systems Analysis and Development student 
+ <br />
+ 🚀 I'm started studying development in May 2023
+</div>
 
 ##
 
 ### Technologies I'm currently using: 🚀
+
 <div>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,6 +24,7 @@
 </div>
 
 ### Technologies I'm currently learning: 📚
+
 <div>
  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
