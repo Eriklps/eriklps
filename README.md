@@ -29,10 +29,7 @@
 
 ##
 
-<!-- ### 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eriklps&theme=default) -->
-
-[![Eriklps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eriklps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Eriklps top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriklps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
