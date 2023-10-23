@@ -1,12 +1,8 @@
 ### Hi there! I'm Erik! 👋
 
-<div>
- 🖥️ I'm currently working as IT Infrastructure Analyst 
- <br />
- 📚 Systems Analysis and Development student 
- <br />
- 🚀 I'm started studying development in May 2023
-</div>
+ - I'm currently working as IT Infrastructure Analyst 🖥️
+ - Systems Analysis and Development student 📚
+ - I'm started studying development in May 2023 🚀
 
 ##
 
