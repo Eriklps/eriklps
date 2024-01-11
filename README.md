@@ -8,6 +8,8 @@
 
 <a href="https://www.linkedin.com/in/eriklps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+##
+
 <div>
 
 ### Languages and tools: 
@@ -24,6 +26,8 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
  
 </div>
+
+##
 
 <br />
 
