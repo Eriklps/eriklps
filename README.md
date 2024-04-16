@@ -20,7 +20,7 @@
 
 ### Languages and tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,java,spring,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,java,spring,mysql,postgres,mongodb,docker)](https://skillicons.dev)
 
 </div>
 
